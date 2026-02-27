@@ -113,10 +113,9 @@ Dependencies include:
 - matplotlib
 
 ---
-📊 Datasets
+## 📊 Datasets
 
-
-1️⃣ Brain Tumor MRI Dataset (M. Nickparvar)
+## 1️⃣ Brain Tumor MRI Dataset (M. Nickparvar)
 
 Kaggle Link:
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
@@ -125,14 +124,14 @@ Modalities: T1 MRI
 
 Labels: Image-level (glioma, meningioma, pituitary, normal)
 
-2️⃣ Brain MRI Images for Tumor Detection (Navoneel)
+## 2️⃣ Brain MRI Images for Tumor Detection (Navoneel)
 
 Kaggle Link:
 https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
 
 Labels: Tumor / Normal
 
-3️⃣ Brain Tumor Segmentation & Classification (indk214)
+## 3️⃣ Brain Tumor Segmentation & Classification (indk214)
 
 Kaggle Link:
 https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification
@@ -141,7 +140,7 @@ Modalities: T1, T1CE, T2, FLAIR
 
 Includes pixel-wise masks
 
-4️⃣ BraTS 2020
+## 4️⃣ BraTS 2020
 
 Official Challenge Site:
 https://www.med.upenn.edu/cbica/brats2020/
@@ -157,7 +156,7 @@ Voxel-wise tumor annotations
 ## 📚 Citation
 
 ```bibtex
-@article{indrakumar2026etdacvo,
+@article{,
   title={ETDACVO: An Enhanced Tasmanian-Devil-Inspired Adaptive Optimization Algorithm for Cross-Domain Medical Image Learning},
   author={},
   journal={},
