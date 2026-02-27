@@ -118,9 +118,9 @@ Dependencies include:
 
 ```bibtex
 @article{indrakumar2026etdacvo,
-  title={ETDACVO: Enhanced Tasmanian Devil Anti-Conservative Variable Optimization for Cross-Domain Medical Image Learning},
-  author={Indrakumar, K. et al.},
-  journal={Under Review},
+  title={ETDACVO: An Enhanced Tasmanian-Devil-Inspired Adaptive Optimization Algorithm for Cross-Domain Medical Image Learning},
+  author={},
+  journal={},
   year={2026}
 }
 ```
