@@ -113,7 +113,47 @@ Dependencies include:
 - matplotlib
 
 ---
+📊 Datasets
 
+
+1️⃣ Brain Tumor MRI Dataset (M. Nickparvar)
+
+Kaggle Link:
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
+Modalities: T1 MRI
+
+Labels: Image-level (glioma, meningioma, pituitary, normal)
+
+2️⃣ Brain MRI Images for Tumor Detection (Navoneel)
+
+Kaggle Link:
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
+Labels: Tumor / Normal
+
+3️⃣ Brain Tumor Segmentation & Classification (indk214)
+
+Kaggle Link:
+https://www.kaggle.com/datasets/indk214/brain-tumor-dataset-segmentation-and-classification
+
+Modalities: T1, T1CE, T2, FLAIR
+
+Includes pixel-wise masks
+
+4️⃣ BraTS 2020
+
+Official Challenge Site:
+https://www.med.upenn.edu/cbica/brats2020/
+
+Kaggle Mirror:
+https://www.kaggle.com/datasets/awsaf49/brats2020-training-data
+
+Multi-sequence MRI
+
+Voxel-wise tumor annotations
+
+---
 ## 📚 Citation
 
 ```bibtex
